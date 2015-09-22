@@ -1,0 +1,76 @@
+.caption {
+  font-size:0.7rem;
+  color:gray;
+}
+
+.image {
+  margin-bottom:20px;
+}
+
+.sidebar {
+  text-shadow:0px 0px 10px black;
+}
+
+.sidebar-about h3 {
+  font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;
+  font-size:0.7rem;
+  color:#9FA8DA;
+}
+.sidebar-about h1 {
+  font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;
+  font-size:2rem;
+  margin-bottom:20px;
+  margin-top:-10px;
+}
+
+.sidebar-nav a {
+  font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;  
+  display:block;
+  padding:3px;
+  padding-left:10px;
+  margin-top:5px;
+  text-decoration:none;  
+}
+
+.sidebar-nav a:hover {
+  text-decoration:none;
+  background-color:white;
+  color:black;
+  text-shadow:none;
+}
+
+.sidebar-nav i.s {
+  width:20px;
+}
+
+a.ask {
+  background-color:#3F51B5;
+  padding:15px;
+  text-transform:uppercase;
+  font-weight:bold;
+  text-shadow:none;
+  border-radius:3px;
+}
+
+a.about {
+  color:#9FA8DA;
+}
+
+.sidebar {  
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #1A237E),
+  url('/img/sidebar.jpg');
+  background-size:cover; 
+}
+
+.topics td {
+  text-align:center;
+  width:33%;
+  background-color:white !important;
+  vertical-align:top;
+  padding-top:10px;
+}
+
+.topics td img {
+  display:inline; 
+}
+
