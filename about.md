@@ -9,20 +9,20 @@ title: About Us
 
 # The team
 
-* Stefano Meschiari (editor)
-* Monika Adamow
+* Dr. Stefano Meschiari (editor)
+* Dr. Monika Adamow
 * Keaton Bell
-* Steve Finkelstein
-* Natalie Gosnell
+* Prof. Steve Finkelstein
+* Dr. Natalie Gosnell
 * Briana Indahl
 * Marshall C. Johnson
-* Hwihyun Kim
-* Rachael Livermore
-* Gregory Mace
-* Adam McKay
-* Eva Noyola
-* Matthew Shetrone
-* Jeffrey Silverman
+* Dr. Hwihyun Kim
+* Dr. Rachael Livermore
+* Dr. Gregory Mace
+* Dr. Adam McKay
+* Dr. Eva Noyola
+* Dr. Matthew Shetrone
+* Dr. Jeffrey Silverman
 * Zach Vanderbosch
 * Emma Yu
 
