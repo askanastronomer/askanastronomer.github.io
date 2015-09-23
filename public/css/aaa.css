@@ -92,3 +92,11 @@ a.about {
   text-decoration:none;
 }
 
+
+
+#searchbox {
+  min-width:100%;
+  font-style:italic;
+  font-size:1.25rem;
+  padding:10px;
+}

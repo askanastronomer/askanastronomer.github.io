@@ -6,6 +6,20 @@ title: Home
 <h1>Ask An Astronomer</h1>
 We are a <a href="/about">team</a> of graduate students, postdocs and astronomers affiliated with the <a href="http://www.as.utexas.edu">University of Texas</a> and <a href="http://mcdonaldobservatory.org">McDonald Observatory</a>. We welcome questions about Astronomy from K-12 students, teachers and the general public!
 
+<script>
+ function doSearch() {
+     var address = "https://duckduckgo.com/?q=site%3Awww.askanastronomer.org+" +
+                   encodeURIComponent(document.search.searchbox.value);
+     location.href = address;
+     return false;
+ }
+</script>
+
+<form name="search" action="#" method="post" onsubmit="return doSearch()">
+    <input type="text" name="searchbox" id="searchbox" placeholder="Search for answer...">
+</form>
+
+
 <h1>Topics</h1>
 <table cols="3" class="topics">
     <tr>
