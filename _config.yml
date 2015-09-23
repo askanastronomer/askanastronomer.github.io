@@ -9,7 +9,7 @@ title:               Ask An Astronomer
 #tagline:             The Jekyll Butler
 url:                 http://www.askanastronomer.org
 paginate:            1
-baseurl:             ""
+baseurl:             "/askanastronomer"
 
 # Assets
 #
