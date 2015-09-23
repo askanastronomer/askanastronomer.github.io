@@ -12,11 +12,16 @@ title: About Us
 * Stefano Meschiari (editor)
 * Monika Adamow
 * Keaton Bell
+* Steve Finkelstein
 * Natalie Gosnell
 * Briana Indahl
+* Marshall C. Johnson
 * Hwihyun Kim
 * Rachael Livermore
 * Gregory Mace
 * Adam McKay
+* Eva Noyola
+* Matthew Shetrone
+* Jeff Silverman
 * Zach Vanderbosch
 * Emma Yu
