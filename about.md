@@ -9,7 +9,7 @@ title: About Us
 
 # The team
 
-* Dr. Stefano Meschiari (editor)
+* Dr. Stefano Meschiari (editor/webmaster)
 * Dr. Monika Adamow
 * Keaton Bell
 * Prof. Steve Finkelstein
@@ -24,6 +24,7 @@ title: About Us
 * Dr. Matthew Shetrone
 * Dr. Jeffrey Silverman
 * Zach Vanderbosch
+* Yao-Lun Yang
 * Emma Yu
 
 Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to askanastronomer@astro.as.utexas.edu.

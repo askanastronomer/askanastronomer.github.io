@@ -51,6 +51,7 @@ a.ask {
   font-weight:bold;
   text-shadow:none;
   border-radius:3px;
+  margin-bottom:30px;
 }
 
 a.about {
@@ -77,7 +78,7 @@ a.about {
 }
 
 .topics td img {
-  display:inline; 
+  display:inline;
 }
 
 .topics a {
