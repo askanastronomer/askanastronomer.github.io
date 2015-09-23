@@ -9,6 +9,7 @@
 
 .sidebar {
   text-shadow:0px 0px 10px black;
+  overflow:scroll;
 }
 
 .sidebar-about h3 {
