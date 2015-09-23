@@ -22,6 +22,8 @@ title: About Us
 * Adam McKay
 * Eva Noyola
 * Matthew Shetrone
-* Jeff Silverman
+* Jeffrey Silverman
 * Zach Vanderbosch
 * Emma Yu
+
+Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to askanastronomer@astro.as.utexas.edu.
