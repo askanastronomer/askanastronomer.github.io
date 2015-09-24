@@ -19,8 +19,22 @@
             <a href="/planets" title="Search">Planets & Solar System</a>
             <a href="/other" title="Search">Other</a>
         </div>
+        <script>
+         function doSearch() {
+             var address = "https://duckduckgo.com/?q=site%3Awww.askanastronomer.org+" +
+                           encodeURIComponent(document.search.searchbox.value);
+             location.href = address;
+             return false;
+         }
+        </script>
+        
         <a href="/about" class="about">About Ask an Astronomer</a>
         <a href="/links" class="about">Links</a>
+
+        <form id="search" name="search" action="#" method="post" onsubmit="return doSearch()">
+            <i class="fa fa-search"></i>
+            <input type="text" name="searchbox" id="searchbox" placeholder="Search the archive">
+        </form>
     </nav>
 
   </div>

@@ -95,9 +95,19 @@ a.about {
 
 
 
+#search {
+  border:1px solid rgba(255, 255, 255, 0.4);
+  border-radius:30px;
+  padding:8px;
+  margin-top:20px;
+}
 #searchbox {
-  min-width:100%;
+  font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;
   font-style:italic;
-  font-size:1.25rem;
-  padding:10px;
+  font-size:1rem;
+  -webkit-appearance:none;
+  border:none;
+  appearance:none;
+  background:none;
+  color:white;
 }
