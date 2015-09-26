@@ -12,11 +12,13 @@ title: About Us
 * Dr. Stefano Meschiari (editor/webmaster)
 * Dr. Monika Adamow
 * Keaton Bell
+* Dr. Tom Crawford
 * Prof. Steve Finkelstein
 * Dr. Natalie Gosnell
 * Briana Indahl
 * Marshall C. Johnson
 * Dr. Hwihyun Kim
+* Prof. Adam Kraus
 * Dr. Rachael Livermore
 * Dr. Gregory Mace
 * Dr. Adam McKay
@@ -24,7 +26,9 @@ title: About Us
 * Dr. Matthew Shetrone
 * Dr. Jeffrey Silverman
 * Zach Vanderbosch
+* Prof. J. Craig Wheeler
 * Yao-Lun Yang
 * Emma Yu
+
 
 Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to askanastronomer@astro.as.utexas.edu.
