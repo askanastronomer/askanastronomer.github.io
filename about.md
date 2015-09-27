@@ -23,6 +23,8 @@ title: About Us
 * Dr. Gregory Mace
 * Dr. Adam McKay
 * Dr. Eva Noyola
+* Dr. Judit Ries
+* Dr. Aaron Rizzuto
 * Dr. Matthew Shetrone
 * Dr. Jeffrey Silverman
 * Zach Vanderbosch
