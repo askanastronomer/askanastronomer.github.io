@@ -25,7 +25,7 @@ font-size:0.7rem;
 * Marshall C. Johnson *Exoplanets, spectroscopy, astronomical observing, transiting planets, Kepler, spin-orbit misalignments, planetary migration, the interstellar medium, the heliosphere and astrospheres, space exploration and orbital dynamics*
 * Dr. Hwihyun Kim *Formation and evolution of stars and star clusters, HII regions, near-infrared astronomy and spectroscopy, career advice*
 * Prof. Adam Kraus *Extrasolar planets, star formation, planet formation, adaptive optics*
-* Dr. Rachael Livermore
+* Dr. Rachael Livermore *Galaxies, high redshift, gravitational lensing*
 * Dr. Gregory Mace *Low-mass stars, young stars, brown dwarfs, instrumentation*
 * Dr. Adam McKay *Comets, asteroids, planets, moons, Kuiper Belt objects, astrobiology, astrochemistry*
 * Dr. Eva Noyola *Black holes, star clusters, galaxies, dark matter, stars, neutron stars, VIRUS instrument*
