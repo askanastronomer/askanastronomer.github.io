@@ -20,7 +20,7 @@ font-size:0.7rem;
 * Keaton Bell *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * Dr. Tom Crawford *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
 * Prof. Steve Finkelstein *Galaxies, galaxy evolution, reionization*
-* Dr. Natalie Gosnell
+* Dr. Natalie Gosnell *Binary stars, stellar evolution, star clusters*
 * Briana Indahl
 * Marshall C. Johnson *Exoplanets, spectroscopy, astronomical observing, transiting planets, Kepler, spin-orbit misalignments, planetary migration, the interstellar medium, the heliosphere and astrospheres, space exploration and orbital dynamics*
 * Dr. Hwihyun Kim *Formation and evolution of stars and star clusters, HII regions, near-infrared astronomy and spectroscopy, career advice*
