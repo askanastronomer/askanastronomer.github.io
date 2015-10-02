@@ -34,7 +34,7 @@ font-size:0.7rem;
 * Dr. Sarah Salviander *Quasars / active galaxies, supermassive black holes, black hole - galaxy relationships / evolution*
 * Dr. Matthew Shetrone
 * Dr. Jeffrey Silverman *Supernovae, gamma-ray bursts (GRB), novae, transients, spectroscopy, light curves, stellar death*
-* Zach Vanderbosch
+* Zach Vanderbosch *White dwarfs, asteroseismology, stellar formation/evolution, spectrographic instruments, optical engineering, photometry*
 * Prof. J. Craig Wheeler *Stellar Evolution, supernovae, white dwarfs, neutron stars, black holes, gamma-ray bursts (GRB), astrobiology*
 * Yao-Lun Yang *star formation, interstellar medium, spectroscopy, infrared and radio astronomy, radiative transfer*
 * Emma Yu
