@@ -18,6 +18,7 @@ font-size:0.7rem;
 * Dr. Stefano Meschiari (editor/webmaster) *Exoplanets, planet formation, astronomy education*
 * Dr. Monika Adamow *Exoplanet detection, chemical composition of stars, stellar evolution, stellar populations*
 * Keaton Bell *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
+* Dr. Augusto Carballido (Baylor University)
 * Dr. Tom Crawford *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
 * Prof. Steve Finkelstein *Galaxies, galaxy evolution, reionization*
 * Dr. Natalie Gosnell *Binary stars, stellar evolution, star clusters*
