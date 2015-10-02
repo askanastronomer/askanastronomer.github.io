@@ -1,0 +1,15 @@
+---
+layout: default
+title: Frequently Asked Questions
+---
+<h1>FAQ</h1>
+<ul>
+    {% for post in site.posts %}
+    {% if post.categories contains 'faq' %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+ 
