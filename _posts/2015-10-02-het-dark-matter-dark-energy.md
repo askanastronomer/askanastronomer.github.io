@@ -17,7 +17,7 @@ The HET has undergone an upgrade that allows the telescope to look at a larger p
 <div class="caption">Credit: Tim Jones, HETDEX Website</div>
 </div>
 
-The new large field of view combined with the large size of its primary mirror (the third largest in the world), sets it apart from other telescopes trying to study dark energy. Other surveys normally detect galaxies from images and then observe them with a spectrograph to obtain their redshift. The HETDEX survey will use the very large field of view and a unique large spectrograph called VIRUS (http://hetdex.org/hetdex/virus.php) to map an entire portion of the sky and thus detect any galaxy present in that region. The area of the sky that will be observed can be seen here
+The new large field of view combined with the large size of its primary mirror (the third largest in the world), sets it apart from other telescopes trying to study dark energy. Other surveys normally detect galaxies from images and then observe them with a spectrograph to obtain their redshift. The HETDEX survey will use the very large field of view and a unique large spectrograph called [VIRUS](http://hetdex.org/hetdex/virus.php) to map an entire portion of the sky and thus detect any galaxy present in that region. The area of the sky that will be observed can be seen here
 
 <div class="image">
 <img src="http://hetdex.org/images/gallery/Study-Area.jpg">
