@@ -2,6 +2,7 @@
 layout: post
 title: Is it possible to colonize and terraform Mars at the same time?
 categories: planets
+thumbnail: "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mars%2C_Earth_size_comparison.jpg/1200px-Mars%2C_Earth_size_comparison.jpg"
 ---
 <div class="image">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mars%2C_Earth_size_comparison.jpg/1200px-Mars%2C_Earth_size_comparison.jpg" alt="Mars, Earth size comparison.jpg">
