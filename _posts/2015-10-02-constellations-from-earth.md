@@ -2,6 +2,7 @@
 layout: post
 title: Would the constellations we see from Earth look any different from other planets in our solar system?
 categories: stars
+thumbnail: "http://apod.nasa.gov/apod/image/0603/bigdipper_carboni_c46.jpg"
 ---
 <div class="image">
 <a href="http://apod.nasa.gov/apod/ap060317.html" title="The Big Dipper Cluster"><img src="http://apod.nasa.gov/apod/image/0603/bigdipper_carboni_c46.jpg" alt="The Big Dipper Cluster"></a>

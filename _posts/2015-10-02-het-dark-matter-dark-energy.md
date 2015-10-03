@@ -2,6 +2,7 @@
 layout: post
 title: How is the HET uniquely capable of studying dark matter and dark energy?
 categories: bhc
+thumbnail: /img/dedm.jpg
 ---
 <div class="image">
 <img src="/img/dedm.jpg">
