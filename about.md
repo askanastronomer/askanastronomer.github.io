@@ -19,7 +19,7 @@ font-size:0.7rem;
 * Dr. Monika Adamow (UT) *Exoplanet detection, chemical composition of stars, stellar evolution, stellar populations*
 * Keaton Bell (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * Prof. Augusto Carballido (Baylor University) *Planet formation, solar system objects, space exploration, extraterrestrial life*
-* Dr. Tom Crawford (UT) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
+* Dr. Tom Crawford (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
 * Prof. Steve Finkelstein (UT) *Galaxies, galaxy evolution, reionization*
 * Dr. Natalie Gosnell (UT) *Binary stars, stellar evolution, star clusters*
 * Briana Indahl (UT)
@@ -38,6 +38,6 @@ font-size:0.7rem;
 * Zach Vanderbosch (UT) *White dwarfs, asteroseismology, stellar formation/evolution, spectrographic instruments, optical engineering, photometry*
 * Prof. J. Craig Wheeler (UT) *Stellar Evolution, supernovae, white dwarfs, neutron stars, black holes, gamma-ray bursts (GRB), astrobiology*
 * Yao-Lun Yang (UT) *star formation, interstellar medium, spectroscopy, infrared and radio astronomy, radiative transfer*
-* Emma Yu (UT)
+* Emma Yu (UT) *Star formation, planet formation*
 
 Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to [askanastronomer@astro.as.utexas.edu](mailto:askanastronomer@astro.as.utexas.edu).
