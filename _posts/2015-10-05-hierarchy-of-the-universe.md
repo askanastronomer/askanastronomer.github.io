@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the "hierarchy" of structures in the Universe?
+title: What is the hierarchy of structures in the Universe?
 categories: bhc
 thumbnail: "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg/800px-Large-scale_structure_of_light_distribution_in_the_universe.jpg"
 ---
