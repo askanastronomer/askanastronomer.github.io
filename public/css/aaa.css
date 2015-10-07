@@ -115,3 +115,21 @@ a.about {
   background:none;
   color:white;
 }
+
+@media (max-width: 48em) {
+  .sidebar-nav a {
+    display:inline;
+  }
+
+  .content {
+    padding-top:1rem;
+  }
+
+  .topics-list {
+    margin:30px;
+  }
+  
+  #search {
+    display:none;
+  }
+}

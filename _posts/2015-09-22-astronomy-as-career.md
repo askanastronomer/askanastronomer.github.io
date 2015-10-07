@@ -1,7 +1,10 @@
 ---
 layout: post
 title: How many years does it take to become an Astronomer in college? Does one need a doctoral degree?
-categories: other, faq
+categories:
+- other
+- faq
+
 ---
 
 Thanks for your interest in our profession! It is exciting that you picked Astronomy for your report.

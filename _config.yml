@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Ask An Astronomer
-#tagline:             The Jekyll Butler
+tagline:             McDonald Observatory
 url:                 http://www.askanastronomer.org
 paginate:            1
 baseurl:             ""
@@ -24,7 +24,3 @@ author:
   url:               http://stefanom.org
   email:             stefano.meschiari@gmail.com
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
