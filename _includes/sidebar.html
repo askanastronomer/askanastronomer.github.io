@@ -20,19 +20,15 @@
             <a href="/other" title="Other">Other</a>
             <a href="/faq">Frequently asked questions</a>            
         </div>
-<script>
-  (function() {
-    var cx = '000004016194880123093:unkvrakh9jg';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>        
+        <script>
+         function doSearch() {
+             var address = "https://duckduckgo.com/?q=site%3Awww.askanastronomer.org+" +
+                           encodeURIComponent(document.search.searchbox.value);
+             location.href = address;
+             return false;
+         }
+        </script>
+        
         <a href="/about" class="about">About Us</a>
         <a href="/links" class="about">Links</a>
 
