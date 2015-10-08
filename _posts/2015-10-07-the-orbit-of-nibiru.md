@@ -20,8 +20,6 @@ What if, instead, we give Planet X a very elongated, comet-like orbit like you p
 
 I hope that this adequately answers your question.
 
-Best regards,
-
 Marshall Johnson<br>
 *UT Austin*
 
