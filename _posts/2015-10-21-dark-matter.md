@@ -5,7 +5,7 @@ categories: bhc
 thumbnail: http://upload.wikimedia.org/wikipedia/commons/5/51/Hubble_image_of_the_galaxy_cluster_Abell_3827.jpg
 ---
 <div class="image">
-<img src="http://upload.wikimedia.org/wikipedia/commons/5/51/Hubble_image_of_the_galaxy_cluster_Abell_3827.jpg" alt="The Galaxy Cluster Abell 3827"></a>
+<img src="img/Abell_Cluster.jpg" alt="The Galaxy Cluster Abell 3827"></a>
 <div class="caption">The <a href="http://www.eso.org/public/images/eso1514a/">rich galaxy cluster Abell 3827</a>; Credit & Copyright: ESO.</div>
 </div>
 **Are astronomers convinced that dark matter is the answer?**
