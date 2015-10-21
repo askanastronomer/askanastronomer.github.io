@@ -2,7 +2,7 @@
 layout: post
 title: Are astronomers convinced that dark matter is the answer?
 categories: bhc
-thumbnail: http://upload.wikimedia.org/wikipedia/commons/5/51/Hubble_image_of_the_galaxy_cluster_Abell_3827.jpg
+thumbnail: img/Abell_Cluster.jpg
 ---
 <div class="image">
 <img src="img/Abell_Cluster.jpg" alt="The Galaxy Cluster Abell 3827"></a>
