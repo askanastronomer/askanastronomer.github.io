@@ -2,10 +2,10 @@
 layout: post
 title: Are astronomers convinced that dark matter is the answer?
 categories: bhc
-thumbnail: img/Abell_Cluster.jpg
+thumbnail: /img/abell_cluster.jpg
 ---
 <div class="image">
-<img src="img/Abell_Cluster.jpg" alt="The Galaxy Cluster Abell 3827"></a>
+<img src="/img/abell_cluster.jpg" alt="The Galaxy Cluster Abell 3827"></a>
 <div class="caption">The <a href="http://www.eso.org/public/images/eso1514a/">rich galaxy cluster Abell 3827</a>; Credit & Copyright: ESO.</div>
 </div>
 **Are astronomers convinced that dark matter is the answer?**
