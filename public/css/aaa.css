@@ -3,6 +3,10 @@
   color:lightgray;
 }
 
+.caption a {
+  color:darkgray;
+}
+
 .image {
   margin-bottom:20px;
 }
