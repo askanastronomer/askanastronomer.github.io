@@ -120,6 +120,20 @@ a.about {
   color:white;
 }
 
+.post-li {
+  clear:both;
+  border-top:1px solid lightgray;
+  padding-top:10px;
+}
+
+.post-li .img-container {
+  min-height:100px;
+  float:left;
+  width:20%;
+  max-width:200px;
+  margin:10px;
+}
+
 @media (max-width: 48em) {
   .sidebar-nav a {
     display:inline;
@@ -137,3 +151,4 @@ a.about {
     display:none;
   }
 }
+

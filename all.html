@@ -3,10 +3,14 @@ layout: default
 title: All questions
 ---
 <h1>All questions</h1>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+<div class="post-li">
+    <a href="{{ post.url }}">
+        <div class="img-container">
+            <img src="{{ post.thumbnail }}">
+        </div>
+        {{ post.title }}
+    </a>
+</div>
+{% endfor %}

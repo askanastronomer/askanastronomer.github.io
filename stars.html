@@ -3,13 +3,16 @@ layout: default
 title: Stars
 ---
 <h1>Stars</h1>
-<ul>
-    {% for post in site.posts %}
-    {% if post.categories contains 'stars' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
+{% for post in site.posts %}
+{% if post.categories contains 'stars' %}
+<div class="post-li">
+    <a href="{{ post.url }}">
+        <div class="img-container">
+            <img src="{{ post.thumbnail }}">
+        </div>
+        {{ post.title }}
+    </a>
+</div>
+{% endif %}
+{% endfor %}
  
