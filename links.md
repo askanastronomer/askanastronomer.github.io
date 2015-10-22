@@ -13,3 +13,11 @@ title: Links
 * [Caltech's Ask An Astronomer](http://coolcosmos.ipac.caltech.edu/asks)
 * [UC Berkeley's Ask An Astronomer](http://astro.berkeley.edu/astronomy-fans/ask-an-astronomer)
 * [Lick Observatory's Ask An Astronomer](http://www.ucolick.org/~mountain/AAA/aaawiki/doku.php?id=Home)
+
+### Texas Astronomy clubs
+* [Austin Astronomical Society](http://www.austinastro.org)
+* [Houston Astronomical Society](https://www.astronomyhouston.org)
+* [Texas Astronomical Society of Dallas](http://texasastro.org)
+* [San Antonio Astronomical Association](http://sanantonioastronomy.org/)
+* [Fort Worth Astronomical Society](http://www.fortworthastro.com/)
+* [More Texas astronomy clubs...](http://www.austinastro.org/page-759585#amateur)
