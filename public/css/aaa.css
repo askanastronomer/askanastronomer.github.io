@@ -10,6 +10,10 @@
 .image {
   margin-bottom:20px;
 }
+.image-40 {
+  float:right;
+  width:40%;
+}
 
 .sidebar {
   text-shadow:0px 0px 10px black;
