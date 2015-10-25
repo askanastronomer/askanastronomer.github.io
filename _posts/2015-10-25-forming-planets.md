@@ -2,7 +2,7 @@
 layout: post
 title: How long does it take for a planet to be born?
 categories: planets
-thumbnail: /img/hltau.png
+thumbnail: http://askanastronomer.org/img/hltau.png
 ---
 <div class="image">
 <img src="/img/hltau.png" alt="HL Tau">
