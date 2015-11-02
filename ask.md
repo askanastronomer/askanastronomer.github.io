@@ -8,4 +8,4 @@ Please keep your question short and focused (*tell us everything you know about 
 
 The most interesting questions will be published anonymously on our website.
 
-<iframe src="https://docs.google.com/forms/d/15Ab6jaV61aIti60ADBnB4sBZoSFrcBwNez6GIvUHX8Q/viewform?embedded=true" height="800" frameborder="0" marginheight="0" marginwidth="0" style="min-width:100%">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/15Ab6jaV61aIti60ADBnB4sBZoSFrcBwNez6GIvUHX8Q/viewform?embedded=true" height="1000" frameborder="0" marginheight="0" marginwidth="0" style="min-width:100%">Loading...</iframe>
