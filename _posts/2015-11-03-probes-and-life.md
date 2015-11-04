@@ -2,7 +2,7 @@
 layout: post
 title: Is there is a policy to not send probes anywhere that conditions might support life?
 categories: planets
-thumbnail: /img/pia19048.jpg
+thumbnail: http://askanastronomer.org/img/pia19048.jpg
 ---
 <div class="image">
 <img src="/img/pia19048.jpg" alt="Europa's surface">
