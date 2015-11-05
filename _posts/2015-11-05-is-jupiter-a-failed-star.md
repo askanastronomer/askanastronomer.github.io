@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Is Jupiter a failed star?
-categories:
-- planets
-- stars
+categories: planets
 thumbnail: http://askanastronomer.org/img/jupiterspot_12801_thumb.jpg
 ---
 <div class="image">
