@@ -20,9 +20,10 @@ font-size:0.7rem;
 * Keaton Bell (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * Prof. Augusto Carballido (Baylor University) *Planet formation, solar system objects, space exploration, extraterrestrial life*
 * Dr. Tom Crawford (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
+* Sam Factor (UT) *Exoplanets, planet formation, radio interferometry*
 * Prof. Steve Finkelstein (UT) *Galaxies, galaxy evolution, reionization*
 * Dr. Natalie Gosnell (UT) *Binary stars, stellar evolution, star clusters*
-* Briana Indahl (UT)
+* Briana Indahl (UT) *Astronomy instruments, galaxies, HETDEX, VIRUS*
 * Marshall C. Johnson (UT) *Exoplanets, spectroscopy, astronomical observing, transiting planets, Kepler, spin-orbit misalignments, planetary migration, the interstellar medium, the heliosphere and astrospheres, space exploration and orbital dynamics*
 * Dr. Hwihyun Kim (UT) *Formation and evolution of stars and star clusters, HII regions, near-infrared astronomy and spectroscopy, career advice*
 * Prof. Adam Kraus (UT) *Extrasolar planets, star formation, planet formation, adaptive optics*
