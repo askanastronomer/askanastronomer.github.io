@@ -43,3 +43,9 @@ font-size:0.7rem;
 * Emma Yu (UT) *Star formation, planet formation*
 
 Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to [askanastronomer@astro.as.utexas.edu](mailto:askanastronomer@astro.as.utexas.edu).
+
+
+#### Credits
+- [Black hole icon](http://www.nasa.gov/mission_pages/nustar/multimedia/pia16695.html)
+- [Star icon](http://www.spacetelescope.org/images/html/heic0516b.html)
+- [Andromeda galaxy icon](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_(with_h-alpha).jpg)
