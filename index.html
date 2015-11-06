@@ -9,54 +9,53 @@ description: Curious about Astronomy? Have a burning question about the Universe
 <p>We are a <a href="/about">team</a> of graduate students, postdocs, researchers and faculty affiliated with the <a href="http://www.as.utexas.edu">University of Texas</a> and <a href="http://mcdonaldobservatory.org">McDonald Observatory</a>. We welcome questions about Astronomy from K-12 students, teachers and the general public!</p>
 
 <h1>Topics</h1>
-<table cols="3" class="topics"> 
-    <tr>
-        <td>
-            <a href="/bhc">
-                <img src="/img/icon_bh.jpg" width="150"><br>
-                Black Holes & Cosmology
-            </a>
-        </td>
-        <td>
-            <a href="/stars">
-                <img src="/img/icon_stars.jpg" width="150"><br>
-                Stars
-            </a>
-        </td>
-        <td>
-            <a href="/galaxies">
-                <img src="/img/icon_galaxy.jpg" width="150"><br>
-                Galaxies
-            </a>
-        </td>
-    </tr>
-        <tr>
-        <td>
-            <a href="/planets">
-                <img src="/img/icon_ss.jpg" width="150"><br>
-                Planets & Solar System
-            </a>
-        </td>
-        <td>
-            <a href="/other">
-                <img src="/img/icon_other.jpg" width="150"><br>
-                Other topics
-            </a>
-        </td>
-        <td>
-            <a href="/faq">
-                <img src="/img/icon_faq.jpg" width="150"><br>
-                Frequently Asked Questions
-            </a>
-        </td>
-    </tr>
-</table>
+<div class="topics">
+    <div class="topic">
+        <a href="/bhc">
+            <img src="/img/icon_bh.jpg"><br>
+            Black Holes & Cosmology
+        </a>            
+    </div>
+    <div class="topic">
+        <a href="/galaxies">
+            <img src="/img/icon_galaxy.jpg"><br>
+            Galaxies
+        </a>
+    </div>
+    <div class="topic">
+        <a href="/stars">
+            <img src="/img/icon_stars.jpg"><br>
+            Stars
+        </a>            
+    </div>
+</div>
+<div class="topics">
+    <div class="topic">
+        <a href="/planets">
+            <img src="/img/icon_ss.jpg"><br>
+            Planets & Solar System
+        </a>
+    </div>
+    <div class="topic">
+        <a href="/other">
+            <img src="/img/icon_other.jpg"><br>
+            Other topics
+        </a>
+    </div>
+    <div class="topic">
+        <a href="/faq">
+            <img src="/img/icon_faq.jpg"><br>
+            Frequently Asked Questions
+        </a>
+    </div>
+</div>
+
 
 <h1>Archive</h1>
 <ul>
-  {% for post in site.posts %}
+    {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+    {% endfor %}
 </ul>
