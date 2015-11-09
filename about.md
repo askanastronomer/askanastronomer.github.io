@@ -19,6 +19,7 @@ font-size:0.7rem;
 * Dr. Monika Adamow (UT) *Exoplanet detection, chemical composition of stars, stellar evolution, stellar populations*
 * Keaton Bell (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * Prof. Augusto Carballido (Baylor University) *Planet formation, solar system objects, space exploration, extraterrestrial life*
+* Jim Chandler (Austin Astronomical Society) *Amateur astronomy and equipment*
 * Dr. Tom Crawford (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
 * Sam Factor (UT) *Exoplanets, planet formation, radio interferometry*
 * Prof. Steve Finkelstein (UT) *Galaxies, galaxy evolution, reionization*
