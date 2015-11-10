@@ -23,7 +23,7 @@ The first reason is that at this point dark matter is necessary to explain obser
 The second reason is galaxy clusters, in particular the [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster).
 
 <div class="image">
-<img src="http://blogs.discovermagazine.com/cosmicvariance/files/uploads/1e0657odx.jpg" alt="The Bullet Cluster"></a>
+<img src="/img/bullet_cluster.jpg" alt="The Bullet Cluster"></a>
 <div class="caption">The Bullet Cluster.</div>
 </div>
 
