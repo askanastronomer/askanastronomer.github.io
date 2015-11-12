@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Ask An Astronomer
+title:               Ask an Astronomer
 tagline:             McDonald Observatory
 url:                 http://askanastronomer.org
 paginate:            1

@@ -2,16 +2,21 @@
 layout: default
 ---
 
+
+{% assign cat = page.categories | first %}
+{% if cat == "bhc" %}{% assign cat = "black holes & cosmology" %}{% endif %} 
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span class="post-date">Category: <a href="/{{ page.categories | first }}">{{ cat }}</a> &mdash; {{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
-
 <div class="related">
-  <h2>Related Posts</h2>
+  <h2>Related Questions</h2>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+      {% for post in site.posts %}
+      {% if (post.categories == page.categories) or (post.categories contains page.categories) %}
+      {% if (post.title != page.title) %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -20,6 +25,8 @@ layout: default
           </a>
         </h3>
       </li>
+      {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
