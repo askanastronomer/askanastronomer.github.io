@@ -5,14 +5,7 @@ title: Frequently Asked Questions
 <h1>Frequently Asked Questions</h1>
 {% for post in site.posts %}
 {% if post.categories contains 'faq' %}
-<div class="post-li">
-    <a href="{{ post.url }}">
-        <div class="img-container">
-            <img src="{{ post.thumbnail }}">
-        </div>
-        {{ post.title }}
-    </a>
-</div>
+{% include looper.html %}
 {% endif %}
 {% endfor %}
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When I look up and see the Milky Way galaxy, am I looking towards the center of the galaxy or towards outer space?
+author: Zach Vanderbosch
 categories: galaxies
 thumbnail: http://askanastronomer.org/img/center_galaxy_thumb.jpg
 ---

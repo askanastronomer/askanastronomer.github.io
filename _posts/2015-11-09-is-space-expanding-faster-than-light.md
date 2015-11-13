@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is space expanding faster than the speed of light?
+author: Rachael Livermore
 categories:
 - bhc
 - faq

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Are astronomers convinced that dark matter is the answer?
+author: Eva Noyola
 categories: bhc
 thumbnail: http://askanastronomer.org/img/Abell_Cluster.jpg
 ---

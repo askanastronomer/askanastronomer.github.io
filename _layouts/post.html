@@ -4,18 +4,23 @@ layout: default
 
 
 {% assign cat = page.categories | first %}
-{% if cat == "bhc" %}{% assign cat = "black holes & cosmology" %}{% endif %} 
+{% assign firstcat = page.categories | first %}
 
+{% if cat == "bhc" %}{% assign cat = "black holes & cosmology" %}{% endif %} 
+{% if cat == "planets" %}{% assign cat = "planets & solar system" %}{% endif %} 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">Category: <a href="/{{ page.categories | first }}">{{ cat }}</a> &mdash; {{ page.date | date_to_string }}</span>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-author">
+        By <a href="/byauthor/?author={{ page.author | uri_escape}}">{{ page.author }}</a>
+        <div class="post-category">{{ page.date | date_to_string }} &mdash; <a href="/{{ page.categories | first }}">{{ cat }}</a></div>
+    </div>
   {{ content }}
 </div>
 <div class="related">
   <h2>Related Questions</h2>
   <ul class="related-posts">
       {% for post in site.posts %}
-      {% if (post.categories == page.categories) or (post.categories contains page.categories) %}
+      {% if (post.categories == firstcat) or (post.categories contains firstcat) %}
       {% if (post.title != page.title) %}
       <li>
         <h3>

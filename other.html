@@ -3,13 +3,9 @@ layout: default
 title: Other
 ---
 <h1>Other topics</h1>
-<ul>
-    {% for post in site.posts %}
-    {% if post.categories contains 'other' %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
- 
+{% for post in site.posts %}
+{% if post.categories contains 'other' %}
+{% include looper.html %}
+{% endif %}
+{% endfor %}
+

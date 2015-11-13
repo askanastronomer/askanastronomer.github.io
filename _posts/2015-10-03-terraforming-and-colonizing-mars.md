@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is it possible to colonize and terraform Mars at the same time?
+author: Augusto Carballido
 categories: planets
 thumbnail: "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mars%2C_Earth_size_comparison.jpg/1200px-Mars%2C_Earth_size_comparison.jpg"
 ---

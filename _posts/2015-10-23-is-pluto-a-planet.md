@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Pluto still a planet?
+author: Adam McKay
 categories:
 - planets
 - faq

@@ -2,6 +2,7 @@
 layout: post
 title: How is the HET uniquely capable of studying dark matter and dark energy?
 categories: bhc
+author: Eva Noyola
 thumbnail: /img/dedm.jpg
 ---
 <div class="image">
@@ -33,5 +34,5 @@ So, to summarize, what makes the HET unique to study dark energy is its efficien
 
 More information, videos and images can be found at the [HETDEX website](http://hetdex.org/hetdex/).
 
-Eva Noyola<br>
+Dr. Eva Noyola<br>
 *UT Austin*

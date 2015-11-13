@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How long does it take for a planet to be born?
+author: Emma Yu
 categories: planets
 thumbnail: http://askanastronomer.org/img/hltau.png
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Would the constellations we see from Earth look any different from other planets in our solar system?
 categories: stars
+author: Keaton Bell
 thumbnail: "http://apod.nasa.gov/apod/image/0603/bigdipper_carboni_c46.jpg"
 ---
 <div class="image">

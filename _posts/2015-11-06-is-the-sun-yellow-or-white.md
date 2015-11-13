@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is the Sun yellow or white?
+author: Monika Adamow
 categories:
 - stars
 - faq

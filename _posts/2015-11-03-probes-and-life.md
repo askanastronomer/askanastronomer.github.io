@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is there is a policy to not send probes anywhere that conditions might support life?
+author: Augusto Carballido
 categories: planets
 thumbnail: http://askanastronomer.org/img/pia19048.jpg
 ---

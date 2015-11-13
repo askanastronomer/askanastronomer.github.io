@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Can a hypothetical Planet X whip around from behind the Sun in a 3600-years orbit?
+author: Marshall Johnson
 categories: planets
 thumbnail: http://deepimpact.umd.edu/gallery/jpg/orbits3-color.jpg
 ---

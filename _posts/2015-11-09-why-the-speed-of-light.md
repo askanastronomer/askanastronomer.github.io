@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why is light traveling at the specific speed of 186,000 miles/sec?
+author: J. Craig Wheeler
 categories:
 - other
 - faq

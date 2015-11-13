@@ -2,6 +2,7 @@
 layout: post
 title: Is it possible to see the Andromeda galaxy with the unaided eye when in dark sky country within Texas?
 categories: galaxies
+author: Jim Chandler
 thumbnail: https://farm1.staticflickr.com/577/20585545311_0d30e6d576_z.jpg
 ---
 <div class="image">

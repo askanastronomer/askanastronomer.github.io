@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Jupiter a failed star?
+author: Adam Kraus
 categories: planets
 thumbnail: http://askanastronomer.org/img/jupiterspot_12801_thumb.jpg
 ---

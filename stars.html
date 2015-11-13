@@ -5,14 +5,7 @@ title: Stars
 <h1>Stars</h1>
 {% for post in site.posts %}
 {% if post.categories contains 'stars' %}
-<div class="post-li">
-    <a href="{{ post.url }}">
-        <div class="img-container">
-            <img src="{{ post.thumbnail }}">
-        </div>
-        {{ post.title }}
-    </a>
-</div>
+{% include looper.html %}
 {% endif %}
 {% endfor %}
  

@@ -5,12 +5,5 @@ title: All questions
 <h1>All questions</h1>
 
 {% for post in site.posts %}
-<div class="post-li">
-    <a href="{{ post.url }}">
-        <div class="img-container">
-            <img src="{{ post.thumbnail }}">
-        </div>
-        {{ post.title }}
-    </a>
-</div>
+{% include looper.html %}
 {% endfor %}

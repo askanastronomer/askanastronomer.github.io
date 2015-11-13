@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How old are small stars?
+author: Keaton Bell
 categories: stars
 thumbnail: http://askanastronomer.org/img/proxima_thumb.jpg
 ---
