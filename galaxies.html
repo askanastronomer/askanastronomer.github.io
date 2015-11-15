@@ -5,14 +5,7 @@ title: Galaxies
 <h1>Galaxies</h1>
 {% for post in site.posts %}
 {% if post.categories contains 'galaxies' %}
-<div class="post-li">
-    <a href="{{ post.url }}">
-        <div class="img-container">
-            <img src="{{ post.thumbnail }}">
-        </div>
-        {{ post.title }}
-    </a>
-</div>
+{% include looper.html %}
 {% endif %}
 {% endfor %}
 
