@@ -19,11 +19,11 @@ The Earth rotates counter-clockwise on its axis (picture a spinning top). Becaus
 
 The Moon's pattern is close to that of the Sun's. It orbits the Earth on a plane that is approximately 5.1 degrees offset from the orbital plane of the Earth around the Sun. This causes the position of the moonrise and Moonset to vary up to 28.6 degrees north or south (that’s 23.5+5.1 degrees).
 
-The Moon orbits completely around Earth in 28.5 days, about once a month. This causes the Moon to move through its 28.6 degree range of variation much quicker than the Sun appears to, creating a noticeable position change against the horizon each night. The Moon also doesn't rise at the same time each night. Due to the speed of Earth's rotation and the Moon's orbit, the Moon rises about 50 minutes later each day. Interestingly, all these changes in relative position to the Sun make the Moon appear to go through its waxing and waning phases.
+The Moon orbits completely around the Earth in 28.5 days, about once a month. This causes the Moon to move through its 28.6 degree range of variation much quicker than the Sun appears to, creating a noticeable position change against the horizon each night. The Moon also doesn't rise at the same time each night. Due to the speed of Earth's rotation and the Moon's orbit, the Moon rises about 50 minutes later each day. Interestingly, all these changes in relative position to the Sun make the Moon appear to go through its waxing and waning phases.
 
 [There is a nice animation here](https://www.youtube.com/watch?v=UgpIy4tUjFI) that shows the rotation of the Earth, and the relative timescales of the Earth and Moon orbits.
 
-I hope this answers your question, and clarifies why the Moon rises and sets in different positions over the course of a month. Please of not hesitate to contact me directly or the Ask an Astronomer page with follow-up question!
+I hope this answers your question, and clarifies why the Moon rises and sets in different positions over the course of a month. Please do not hesitate to contact me directly or the Ask an Astronomer page with follow-up question!
 
 Dr. Aaron Rizzuto<br>
 *UT Austin*
