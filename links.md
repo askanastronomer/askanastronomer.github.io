@@ -6,6 +6,7 @@ title: Links
 * [McDonald Observatory](https://mcdonaldobservatory.org)
 * [StarDate](https://mcdonaldobservatory.org)
 * [Department of Astronomy at UT Austin](http://www.as.utexas.edu)
+* [Astronomy Outreach at UT](http://outreach.as.utexas.edu)
 
 ### Questions & Answers archives
 * [NASA's Ask an Astrophysicist](http://imagine.gsfc.nasa.gov/ask_astro/index.html)
@@ -21,3 +22,7 @@ title: Links
 * [San Antonio Astronomical Association](http://sanantonioastronomy.org/)
 * [Fort Worth Astronomical Society](http://www.fortworthastro.com/)
 * [More Texas astronomy clubs...](http://www.austinastro.org/page-759585#amateur)
+
+### Careers in Astronomy
+* [American Astronomical Society career brochure](http://aas.org/learn/careers-astronomy)
+* [Planning your education](http://aas.org/learn/planning-your-education)
