@@ -181,7 +181,7 @@ a.about {
 .topics a {
   line-height:1.2;
   display:block;
-  padding:0.4rem;
+  padding:0.6rem;
   text-decoration:none;
   color:black;
 }
@@ -201,6 +201,7 @@ a.about {
 .topic img {
   margin:0;
   margin-bottom:10px;
+  min-width:100%;
 }
 
 .sidebar {
