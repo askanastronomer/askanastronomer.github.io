@@ -3,7 +3,14 @@ layout: default
 title: All questions
 ---
 <h1>All questions</h1>
-
+Topics:<br>
+<a href="/bhc" title="Black Holes & Cosmology">Black Holes & Cosmology</a> &mdash;
+<a href="/galaxies" title="Galaxies">Galaxies</a>  &mdash;            
+<a href="/stars" title="Stars">Stars</a>  &mdash;
+<a href="/planets" title="Planets">Planets & Solar System</a>  &mdash;
+<a href="/other" title="Other">Other</a>  &mdash;
+<a href="/faq">Frequently asked questions</a>            
+<hr>
 {% for post in site.posts %}
 {% include looper.html %}
 {% endfor %}

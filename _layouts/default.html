@@ -6,7 +6,10 @@
   <body>
 
     {% include sidebar.html %}
-
+      <nav class="top-nav">
+          <a href="/ask" class="ask" title="Ask"><i class="fa fa-question-circle"></i> Ask a question</a>
+          <a href="/topics" class="answer" title="Answers"><i class="fa fa-comment"></i> Read answers</a>
+      </nav>
     <div class="content container">
       {{ content }}
     </div>

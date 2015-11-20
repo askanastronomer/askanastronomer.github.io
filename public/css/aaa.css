@@ -1,3 +1,13 @@
+.sidebar-top {
+  float:right;
+  height:100%;
+  display:none;
+}
+
+.top-nav {
+  display:block;
+}
+
 .caption {
   font-size:0.7rem;
   color:lightgray;
@@ -77,13 +87,12 @@
 .sidebar-nav a {
   font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;  
   display:block;
-  padding:3px;
   padding-left:10px;
   margin-top:5px;
   text-decoration:none;  
 }
 
-.sidebar-nav a:hover {
+.sidebar a:hover {
   text-decoration:none;
   background:white;
   color:black;
@@ -96,7 +105,17 @@
 
 a.ask {
   background:linear-gradient(to bottom, #7986CB, #3F51B5);
-  padding:15px;
+  line-height:3;
+  text-transform:uppercase;
+  font-weight:bold;
+  text-shadow:none;
+  border-radius:3px;
+  margin-bottom:30px;
+}
+
+a.answer {
+  background:linear-gradient(to bottom, #7986CB, #3F51B5);
+  line-height:3;
   text-transform:uppercase;
   font-weight:bold;
   text-shadow:none;
@@ -215,8 +234,24 @@ a.about {
   }
 
   .sidebar {
-    padding:1rem 1rem;
+    padding:0.2rem 1rem;
     overflow:initial;
+  }
+
+  .sidebar-nav {
+    display:none;
+  }
+
+  .top-nav {
+    display:block;
+    background-color:rgb(220, 220, 220);
+    text-align:center;
+  }
+
+  .top-nav a {
+    width:150px;
+    color:white;
+    padding:8px;
   }
 
   a.about {

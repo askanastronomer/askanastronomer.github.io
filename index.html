@@ -8,47 +8,7 @@ description: Curious about Astronomy? Have a burning question about the Universe
 
 <p>We are a <a href="/about">team</a> of graduate students, postdocs, researchers and faculty affiliated with the <a href="http://www.as.utexas.edu">University of Texas</a> and <a href="http://mcdonaldobservatory.org">McDonald Observatory</a>. We welcome questions about Astronomy from K-12 students, teachers and the general public!</p>
 
-<h1>Topics</h1>
-<div class="topics">
-    <div class="topic">
-        <a href="/bhc">
-            <img src="/img/icon_bh.jpg">
-            Black Holes & Cosmology 
-        </a>            
-    </div>
-    <div class="topic">
-        <a href="/galaxies">
-            <img src="/img/icon_galaxy.jpg">
-            Galaxies
-        </a>
-    </div>
-    <div class="topic">
-        <a href="/stars">
-            <img src="/img/icon_stars.jpg">
-            Stars
-        </a>            
-    </div>
-</div>
-<div class="topics">
-    <div class="topic">
-        <a href="/planets">
-            <img src="/img/icon_ss.jpg">
-            Planets & Solar System
-        </a>
-    </div>
-    <div class="topic">
-        <a href="/other">
-            <img src="/img/icon_other.jpg">
-            Other topics
-        </a>
-    </div>
-    <div class="topic">
-        <a href="/faq">
-            <img src="/img/icon_faq.jpg">
-            Frequently Asked Questions
-        </a>
-    </div>
-</div>
+{% include topics.html %}
 
 <h1>Recent questions</h1>
 {% for post in site.posts limit: 5 %}
