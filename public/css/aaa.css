@@ -7,6 +7,10 @@
   color:darkgray;
 }
 
+.with-border {
+  border:1px solid lightgray;
+}
+
 .post-info {
   font-size:0.8rem;
   color:lightgray;
