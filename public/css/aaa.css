@@ -179,8 +179,9 @@ a.about {
 }
 
 .topics a {
+  line-height:1.2;
   display:block;
-  padding:15px;
+  padding:0.4rem;
   text-decoration:none;
   color:black;
 }
