@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About 100 tons of cosmic dust fall on the Earth every day. Will this cause Earth's orbit to change with time?
+title: About 100 tons of cosmic dust fall on the Earth every day. Will this cause Earth's orbit to change over time?
 author: Judit Ries
 categories: planets
 thumbnail: http://askanastronomer.org/img/cosmic_dust_thumb.jpg
