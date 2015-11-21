@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How much of the Sun has been used?
+title: How much of the Sun has been used up?
 author: Zach Vanderbosch
 categories: stars
 thumbnail: http://askanastronomer.org/img/sun_thumb.jpg
@@ -9,7 +9,7 @@ thumbnail: http://askanastronomer.org/img/sun_thumb.jpg
 <img src="/img/sun.jpg">
 <div class="caption">Extreme Ultraviolet Imaging Telescope (EIT) image of the Sun. Credit: ESA/NASA/SOHO.</div>
 </div>
-**About how much of the Sun has been used?**
+**About how much of the Sun has been used up?**
 
 That's a very interesting question, and one that can often be very difficult to answer when getting deep into the details, but I'll try and do a quick "back-of-the-envelope" calculation for you and mention when these tricky little details might become important and change my answer.
 
