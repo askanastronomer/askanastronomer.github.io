@@ -130,6 +130,7 @@ a.ask {
   text-shadow:none;
   border-radius:3px;
   margin-bottom:30px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
 }
 
 a.answer {
