@@ -26,5 +26,6 @@ As for measurements of distances, astronomers use many [techniques](https://en.w
 So in conclusion, photons can lose energy while traveling through space, astronomers measure this loss of energy by measuring redshifts, and our measurements of distance (and therefore [the expansion of the universe](https://en.wikipedia.org/wiki/Hubble%27s_law)) are impacted by this effect but only slightly and if it’s not taken into account by the astronomers doing the measuring.
 
 Regards,
+
 Matt Stevans<br>
 *UT Austin*
