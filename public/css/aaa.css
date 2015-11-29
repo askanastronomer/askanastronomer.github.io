@@ -196,6 +196,7 @@ a.about {
 .topics {
   border:none;
   clear:both;
+  overflow:hidden;
 }
 
 .topics a {
