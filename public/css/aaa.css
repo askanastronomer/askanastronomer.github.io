@@ -64,7 +64,8 @@
 .image-40 {
   float:right;
   width:40%;
-  margin:30px;
+  margin-left:20px;
+  margin-bottom:20px;
 }
 
 .sidebar {
