@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can we find exoplanets by beaming low-frequency waves towards them?
+title: Can we find exoplanets (and possibly extraterrestrial life) by beaming low-frequency waves towards them?
 author: Yao-Lun Yang
 categories:
 - planets
