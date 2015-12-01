@@ -10,11 +10,11 @@
 
 .caption {
   font-size:0.7rem;
-  color:lightgray;
+  color:rgb(190, 190, 190);
 }
 
 .caption a {
-  color:darkgray;
+  color:rgb(100, 100, 100);
 }
 
 .with-border {
@@ -64,8 +64,9 @@
 .image-40 {
   float:right;
   width:40%;
-  margin-left:20px;
-  margin-bottom:20px;
+  margin:5px;
+  padding:10px;
+  background-color:rgb(240, 240, 240);
 }
 
 .sidebar {
