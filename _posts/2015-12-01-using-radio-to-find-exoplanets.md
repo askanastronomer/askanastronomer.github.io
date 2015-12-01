@@ -14,7 +14,7 @@ thumbnail: http://askanastronomer.org/img/alma_thumb.jpg
 
 **If X-ray and radio beams can emit from black holes and the like in interstellar space, can lower frequency waves on the middle to low end of the spectrum be emitted from high-powered beams on Earth and then detected by telescopes -- like a sub pinging to its target -- in order to search for exoplanets and life outside Earth?**
 
-This is a great question, which I believe many people also have on their mind.  To answer this question, I want to first discuss the origin of the X-ray and radio emissions and the signatures of exoplanets and extraterrestrial life (life forms residing outside of our Solar System). Then we can think about how to detect exoplanets and extraterrestrial life with telescopes or other facilities.
+This is a great question, which I believe a lot of people have thought about.  To answer this question, I would like to first discuss the origin of the X-ray and radio emissions and the signatures of exoplanets and extraterrestrial life (life forms residing outside of our Solar System). Then we can think about how to detect exoplanets and extraterrestrial life with telescopes or other facilities.
 
 <div class="image-40">
 <img src="/img/accretion.jpg" alt="Artist's impression of an accretion disk">
