@@ -5,7 +5,6 @@ author: Stefano Meschiari
 categories:
 - other
 - faq
-
 ---
 
 Thanks for your interest in our profession! It is exciting that you picked Astronomy for your report.
