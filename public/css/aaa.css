@@ -60,6 +60,8 @@
 
 .image {
   margin-bottom:20px;
+  padding:10px;
+  background-color:rgb(240, 240, 240);
 }
 .image-40 {
   float:right;
