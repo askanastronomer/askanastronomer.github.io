@@ -1,3 +1,7 @@
+.container {
+  padding-top:20px;
+}
+
 .sidebar-top {
   float:right;
   height:100%;
@@ -81,6 +85,7 @@
   font-size:0.7rem;
   color:#9FA8DA;
 }
+
 .sidebar-about h1 {
   font-family:'Raleway', 'Helvetica Neue', Helvetica, Arial;
   font-size:2rem;
@@ -279,6 +284,7 @@ a.about {
     width:150px;
     color:white;
     padding:8px;
+    box-shadow:none;
   }
 
   a.about {

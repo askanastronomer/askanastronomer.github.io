@@ -1,2 +1,4 @@
 _site
 .sass-cache
+public/css/bebas
+.DS_Store
