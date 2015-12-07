@@ -7,7 +7,7 @@ thumbnail: http://askanastronomer.org/img/protoplanets_collision.jpg
 ---
 <div class="image">
 <img src="/img/protoplanets_collision.jpg">
-<div class="caption">Artist's depiction of a giant impact between two planetary-sized bodies.</div>
+<div class="caption">Artist's depiction of a giant impact between two planetary-sized bodies. Credit: NASA.</div>
 </div>
 
 **If the collision hypothesis about the formation of the Moon is correct, why is there no ring of debris around Earth? Surely the residual debris were not all swept up by the gravity of the Earth and the Moon.**
