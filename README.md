@@ -29,7 +29,7 @@ When you answer this question, please reply to the submitter AND cc me at askana
 
 I will then publish the question on the AaA website; I will lightly edit the answer (if needed), add a nice image on top of it, and share it through the [Ask an Astronomer Facebook group](https://www.facebook.com/mcdaskanastronomer/?ref=hl). Feel free to share it further on your favorite social media channel.
 
-## Editing posts
+## Editing posts (optional)
 Once the answer is published, you can make still make edits to your answers if you'd like. If you are not already part of this repository, please send an email to askanastronomer@astro.as.utexas.edu.
 
 Each answer is composed using [Markdown](https://help.github.com/articles/github-flavored-markdown/) and resides inside the _posts/ directory. To include a full-width picture in the answer, use the following format:
