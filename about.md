@@ -23,6 +23,7 @@ font-size:0.7rem;
 * [Dr. Tom Crawford](/byauthor/?author=Tom+Crawford) (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
 * [Sam Factor](/byauthor/?author=Sam+Factor) (UT) *Exoplanets, planet formation, radio interferometry*
 * [Prof. Steve Finkelstein](/byauthor/?author=Steve+Finkelstein) (UT) *Galaxies, galaxy evolution, reionization*
+* [Thomas Gomez](/byauthor/?author=Thomas+Gomez) (UT) *Atomic physics/spectroscopy, stars*
 * [Dr. Natalie Gosnell](/byauthor/?author=Natalie+Gosnell) (UT) *Binary stars, stellar evolution, star clusters*
 * [Jacob Hummel](/byauthor/?author=Jacob+Hummel) (UT) *First stars and galaxies, cosmology, structure formation, galaxy formation, star formation, chemical enrichment, supercomputing*
 * [Briana Indahl](/byauthor/?author=Briana+Indahl) (UT) *Astronomy instruments, galaxies, HETDEX, VIRUS*
