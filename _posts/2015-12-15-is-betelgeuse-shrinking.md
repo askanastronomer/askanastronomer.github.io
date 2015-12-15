@@ -26,10 +26,7 @@ if pressure dominates - the star diffuses into space.
 No star is in a perfect equilibrium state as stars are dynamic objects. 
 Even our Sun is constantly trying to balance pressure and gravity, and it alters its radius periodically.
 However, the scale of those changes is so small, that they do not endanger life on Earth in any way.
-A branch of astrophysics devoted to study these oscillations is called helioseismology.
-Sun will expand slowly when it will run out of hydrogen fuel and start its transformation
-to a red giant, and it will shrink a bit as soon as it will be able to produce energy from helium.
-During this process the Earth will be fried, but it will not happen for another 5 billion years. 
+A branch of astrophysics devoted to study these oscillations, called [helioseismology](https://en.wikipedia.org/wiki/Helioseismology).
 
 Betelgeuse is a special type of star -- it is a *pulsating star*. Pulsating star vary their radii on short timescales, 
 like hours, days, months or years, more or less regularly. Their atmospheres are unstable, hence maintaining 
