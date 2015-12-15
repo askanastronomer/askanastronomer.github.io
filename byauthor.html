@@ -22,7 +22,8 @@ title: All answers, by author
  if (author == null)
      location.href = '/';
  else {
-     $("div[data-author='" + encodeURIComponent(author) + "']").css("display", "block");
+     $("div.post-li[data-author!='" + encodeURIComponent(author) + "']").remove();
+     $("div.post-li").css("display", "block");
      $("#author").html("All answers by " + author);
  }
 </script>
