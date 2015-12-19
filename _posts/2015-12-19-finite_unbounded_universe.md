@@ -6,8 +6,8 @@ categories: bhc
 thumbnail: http://askanastronomer.org/img/universe-timeline_thumb.jpg
 ---
 <div class="image">
-<img src="http://askanastronomer.org/img/universe-timeline.jpg">
-<div class="caption">A timeline of the Universe from the Big Bang to the present day. Credit: NASA/WMAP Science Team <a href="http://map.gsfc.nasa.gov/">Source</a>.</div>
+<img src="/img/universe-timeline.jpg">
+<div class="caption">A timeline of the Universe from the Big Bang to the present day. Credit: NASA/WMAP Science Team, <a href="http://map.gsfc.nasa.gov/">Source</a>.</div>
 </div>
 
 **Based on the 2001 WMAP results, the Universe is flat with a 0.4% margin of error. But what exactly are the chances of the Universe being finite but unbounded? I know it's an unanswered question in cosmology, but is there any estimate?**
@@ -20,12 +20,11 @@ Exactly _why_ the Universe's flatness precludes it from also being finite and un
 
 While this is easiest to comprehend in two dimensions, the same holds true for three dimensional spaces.  For example, the interior &mdash; as opposed to the surface &mdash; of the Earth is a _bounded_ 3D space, while an infinite universe is _unbounded_.
 
-**Flat:** When we talk about the flatness of the Universe, we are using the term in its most general geometric sense. A _flat_ space is simply one in which  geometry is [Euclidean](https://en.wikipedia.org/wiki/Euclidean_geometry); i.e., that parallel lines remain parallel forever, the sum of the interior angles of a triangle is always 180 degrees, and the circumference of a circle is always $2\pi$ times the radius.  In contrast with its colloquial meaning however, flatness does **not** imply anything about the dimensionality of a space.  We can talk about a flat 2D space, a flat 3D space, even a flat 4D space. A sheet of paper, for example, is a flat 2D surface, and remains flat whether you roll it into a cylinder, or fold it into an origami swan, no matter how you bend it in 3D space. 
+**Flat:** When we talk about the flatness of the Universe, we are using the term in its most general geometric sense. A _flat_ space is simply one in which  geometry is [Euclidean](https://en.wikipedia.org/wiki/Euclidean_geometry); i.e., that parallel lines remain parallel forever, the sum of the interior angles of a triangle is always 180 degrees, and the circumference of a circle is always 2&pi; times the radius.  In contrast with its colloquial meaning however, flatness does **not** imply anything about the dimensionality of a space.  We can talk about a flat 2D space, a flat 3D space, even a flat 4D space. A sheet of paper, for example, is a flat 2D surface, and remains flat whether you roll it into a cylinder, or fold it into an origami swan, no matter how you bend it in 3D space. 
  
 <div class="image">
-<img src="http://askanastronomer.org/img/Euclide_non-Euclidi_geometry.jpg" alt="Euclidian vs Riemannian Geometries">
+<img src="/img/Euclide_non-Euclidi_geometry.jpg" alt="Euclidian vs Riemannian Geometries">
 <div class="caption">These are all examples of 2D space, but geometry only obeys the rules you learned in school when we're talking about flat space. When the space is curved, all bets are off. <a href="http://www.mu6.com/riemann_space.html">Image Credit</a></div>
-</div>
 </div>
 
 The surface of the Earth on the other hand is an example of a _curved_ 2D surface.  Look at the diagram above: each surface has a triangle drawn on it (just three straight lines that intersect), but only on the 2D plane surface will the angles add up to 180 degrees.  The other two &mdash; the sphere and the 'saddle' &mdash; are examples of curved surfaces.
@@ -45,9 +44,8 @@ These principles lead to a third assumption cosmologists make about the Universe
 - An infinite curved universe &mdash; called an 'open' universe
 
 <div class="image">
-<img src="http://askanastronomer.org/img/geometry_of_the_universe.png" alt="Closed, open, or flat">
+<img src="/img/geometry_of_the_universe.png" alt="Closed, open, or flat">
 <div class="caption">Two-dimensional analogs for the three-dimensional geometry of the Universe. Credit: NASA/GSFC</a></div>
-</div>
 </div>
 
 As it turns out, the general shape the Universe takes depends on the total amount of 'stuff' in the Universe, both matter and energy.  The more stuff there is in the Universe, the more curved space is, with a flat universe just being the dividing line between a 'spherical' finite universe and a 'saddle-shaped' infinite universe. Up until the past few decades didn't really which category the Universe fell into.  Recently though, precision cosmology satellites like [COBE](https://en.wikipedia.org/wiki/Cosmic_Background_Explorer), [WMAP](https://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe), and [Planck](https://en.wikipedia.org/wiki/Planck_(spacecraft)), combined with ground-based observations have allowed us to very carefully measure the geometry of the Universe.  And so far, it looks like the Universe is exactly flat, within a 0.5% margin of error. 

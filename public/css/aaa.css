@@ -67,6 +67,12 @@
   padding:10px;
   background-color:rgb(240, 240, 240);
 }
+
+.image img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .image-40 {
   float:right;
   width:40%;
