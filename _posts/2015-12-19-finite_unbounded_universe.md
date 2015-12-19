@@ -38,10 +38,11 @@ Now that we've thoroughly defined those terms, let's look at how they apply to t
 
 Now that we've thoroughly defined those terms, let's look at how they apply to the Universe.  Cosmology (the study of the origin and evolution of the Universe) rests on two fundamental assumptions. One is the Copernican Principle, which states that the Earth, Sun, Milky Way, etc. do not occupy a special place in the Universe. The other is the Cosmological Principle, that on sufficiently large scales, the Universe is homogeneous (looks the same no matter where you are) and isotropic (looks the same no matter where you look). 
 
-These principles lead to a third assumption cosmologists make about the Universe: that it is _unbounded_. This doesn't necessarily mean the Universe is infinite, just that if it isn't, it also has to be curved!  General Relativity actually allows for three possibilities: 
-- A finite unbounded universe &mdash; called a 'closed' universe
-- An infinite flat universe
-- An infinite curved universe &mdash; called an 'open' universe
+These principles lead to a third assumption cosmologists make about the Universe: that it is _unbounded_. This doesn't necessarily mean the Universe is infinite, just that if it isn't, it also has to be curved!  General Relativity actually allows for three possibilities:
+
+ - A finite unbounded universe &mdash; called a 'closed' universe
+ - An infinite flat universe
+ - An infinite curved universe &mdash; called an 'open' universe
 
 <div class="image">
 <img src="/img/geometry_of_the_universe.png" alt="Closed, open, or flat">
