@@ -3,7 +3,7 @@ layout: post
 title: How is HETDEX different from other dark energy surveys?
 author: Rebecca Tippens
 categories: bhc
-thumbnail: http://askanastronomer.org/img/universe-timeline_thumb.jpg
+thumbnail: http://askanastronomer.org/img/het_thumb.jpg
 ---
 <div class="image">
 <img src="/img/het.jpg">
