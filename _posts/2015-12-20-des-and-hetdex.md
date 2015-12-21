@@ -16,7 +16,7 @@ As the Scientific American article states, the five-year [Dark Energy Survey](ht
 
 <div class="image-40">
 <img src="/img/lyman.jpg">
-<div class="caption">A Lyman alpha emitter. <a href="https://en.wikipedia.org/wiki/Lyman-alpha_emitter#/media/File:Lyman_Alpha_Blob.jpg">Source</a>.</div>
+<div class="caption">A Lyman alpha emitter. <a href="http://chandra.harvard.edu/photo/2009/labs/">Credit and source</a>.</div>
 </div>
 The [Hobby Eberly Telescope Dark Energy eXperiment](http://hetdex.org) (HETDEX) is a three-year optical survey which will cover 420 square degrees of the northern sky. HETDEX is a _spectroscopic survey_, meaning our instruments give the [spectrum](https://solarsystem.nasa.gov/deepimpact/science/spectroscopy.cfm) of incident light. Furthermore, our spectrographs make use of integral field unit (IFU) technology, which actually lets us spatially resolve the spectra to get a 3D image. With HETDEX, we're measuring BAOs using a specific type of very distant, star-forming galaxy known as a [Lyman Alpha Emitter](https://en.wikipedia.org/wiki/Lyman-alpha_emitter) (LAE). At high redshifts, LAE spectra feature a single, distinctive emission line in the optical, making them very useful as probes of the early Universe. HETDEX will fit the full power-spectrum (which is a fancy way of saying that it will tell us not just about pure BAOs but also about how the growth rate of cosmic structures has changed, and how gravity behaves on cosmological scales) of ~1 million LAEs in the redshift range 1.9 < z < 3.5, allowing for a factor of two to three more accuracy than a typical BAO experiment. The result will be the largest map of the universe ever produced. 
 
