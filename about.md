@@ -42,6 +42,7 @@ font-size:0.7rem;
 * [Dr. Matthew Shetrone](/byauthor/?author=Matthew+Shetrone) (UT)
 * [Dr. Jeffrey Silverman](/byauthor/?author=Jeffrey+Silverman) (UT) *Supernovae, gamma-ray bursts (GRB), novae, transients, spectroscopy, light curves, stellar death*
 * [Matt Stevans](/byauthor/?author=Matt+Stevans) (UT) *Galaxies, galaxy evolution, active galactic nuclei, the intergalactic medium*
+* [Rebecca Tippens](/byauthor/?author=Rebecca+Tippens) (UT)
 * [Zach Vanderbosch](/byauthor/?author=Zach+Vanderbosch) (UT) *White dwarfs, asteroseismology, stellar formation/evolution, spectrographic instruments, optical engineering, photometry*
 * [Prof. J. Craig Wheeler](/byauthor/?author=J.+Craig+Wheeler) (UT) *Stellar Evolution, supernovae, white dwarfs, neutron stars, black holes, gamma-ray bursts (GRB), astrobiology*
 * [Yao-Lun Yang](/byauthor/?author=Yao-Lun+Yang) (UT) *star formation, interstellar medium, spectroscopy, infrared and radio astronomy, radiative transfer*
