@@ -41,6 +41,9 @@ Universe Sandbox<sup>2</sup>). Universe Sandbox allows you to simulate any orbit
 
 The second piece of software I would recommend is a game called [Kerbal Space Program](https://kerbalspaceprogram.com). While it is set in a fictional solar system, it is an excellent tool for familiarizing yourself with the ideas of navigating a solar system. Kerbal Space Program uses Patched Conics and the Two Body Approximation, which may give you some insight into how your own model of the solar system will be constructed. There are ample resources to help you get started in Kerbal, as well as an active Reddit community who are generally willing to help out newcomers, or those seeking educational benefits.
 
+Max Parks
+*UT Austin*
+
 ### Further Reading ###
 * [How to calculate the approximate position of planets](
 http://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf)
