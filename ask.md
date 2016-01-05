@@ -2,7 +2,7 @@
 layout: page
 title: Ask a question
 ---
-You can ask an astronomy-related question for [our team](/about) below. We will answer via email within one to two weeks. Please check your spam folder if you don't hear back from us within two weeks. **We can't guarantee we will answer every single question.**
+You can ask an astronomy-related question for [our team](/about) below. We will answer via email within one to four weeks. Please check your spam folder if you don't hear back from us within four weeks. **We can't guarantee we will answer every single question.**
 
 #### Rules
 1. Keep your question short and focused (*tell us everything you know about black holes!*: not good, *why do stars turn into black holes?*: good!).
