@@ -29,5 +29,5 @@ We know that tides here on earth are caused by dragging of the moon. In the reve
 This kind of tidal locking is not uncommon in the Solar system. For example Pluto and its moon Charon are locked in a very close orbit. 
 
 
-Emma Yu
+Emma Yu <br>
 *UT Austin*
