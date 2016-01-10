@@ -6,8 +6,8 @@ categories: planets
 thumbnail: http://askanastronomer.org/img/tidal_lock_of_the_moon_thumb.jpg
 ---
 
-<div class="image-40">
-<img src="https://commons.wikimedia.org/wiki/File:Synchronous_rotation.svg#/media/File:Synchronous_rotation.svg">
+<div class="image">
+<img src="/img/tidal_lock_of_the_moon_thumb.jpg">
 <div class="caption">Tidal locking of the moon. <a href="https://commons.wikimedia.org/wiki/File:Synchronous_rotation.svg#/media/File:Synchronous_rotation.svg">Source</a>.</div>
 </div>
 
