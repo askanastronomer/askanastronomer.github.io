@@ -8,6 +8,9 @@ title: Links
 * [Department of Astronomy at UT Austin](http://www.as.utexas.edu)
 * [Astronomy Outreach at UT](http://outreach.as.utexas.edu)
 
+### Astronomy
+* [Frequently asked questions about black holes](http://www.phys.vt.edu/~jhs/faq/)
+
 ### Questions & Answers archives
 * [NASA's Ask an Astrophysicist](http://imagine.gsfc.nasa.gov/ask_astro/index.html)
 * [Cornell's Ask An Astronomer](http://curious.astro.cornell.edu/)
