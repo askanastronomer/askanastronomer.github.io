@@ -10,6 +10,7 @@ title: Links
 
 ### Astronomy
 * [Frequently asked questions about black holes](http://www.phys.vt.edu/~jhs/faq/)
+* [The Planet X Sage](http://www.badastronomy.com/bad/misc/planetx/nutshell.html) (about the Planet X/Nibiru hoax)
 
 ### Questions & Answers archives
 * [NASA's Ask an Astrophysicist](http://imagine.gsfc.nasa.gov/ask_astro/index.html)
