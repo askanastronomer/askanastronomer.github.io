@@ -25,7 +25,6 @@ Unlike the stars in Star Wars’s [Tatooine](https://en.m.wikipedia.org/wiki/Tat
 
 Many astronomers are looking for Sun-like stars to understand our own Solar System better. Such stars could also host habitable planets like Earth. UT astronomer Ivan Ramirez is one of those researchers. He and his team recently identified the first “solar sibling”, which is highly likely born from the same cloud of gas and dust where our Sun was born (read more about it here: [https://news.utexas.edu/2014/05/08/sun-sibling-astronomy](https://news.utexas.edu/2014/05/08/sun-sibling-astronomy)).
 
-So, stay tuned! We may find “Twin Suns” someday!
 
 Dr. Hwihyun Kim<br>
 *UT, IGRINS Postdoctoral Fellow*
