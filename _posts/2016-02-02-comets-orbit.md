@@ -20,8 +20,6 @@ Just as an object needs to be moving faster than escape velocity to escape the E
 
 In order to be captured into orbit around the Earth, the comet or asteroid would need to slow down to below escape velocity. But, out in the vacuum of space, there is really nothing that can slow the comet or asteroid, and so it will continue on its way, out into solar orbit again.
 
-Best regards,
-
 Marshall Johnson<br>
 *UT Austin*
     
