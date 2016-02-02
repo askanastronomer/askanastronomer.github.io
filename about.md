@@ -32,7 +32,7 @@ font-size:0.7rem;
 * [Prof. Adam Kraus](/byauthor/?author=Adam+Kraus) (UT) *Extrasolar planets, star formation, planet formation, adaptive optics*
 * [Dr. Rachael Livermore](/byauthor/?author=Rachael+Livermore) (UT) *Galaxies, high redshift, gravitational lensing*
 * [Dr. Gregory Mace](/byauthor/?author=Gregory+Mace) (UT) *Low-mass stars, young stars, brown dwarfs, instrumentation*
-* [Raquel Martinez](/byauthor/?author=Raquel+Martinez) (UT)
+* [Raquel Martinez](/byauthor/?author=Raquel+Martinez) (UT) *Star and planet formation, exoplanet hunting*
 * [Dr. Adam McKay](/byauthor/?author=Adam+McKay) (UT) *Comets, asteroids, planets, moons, Kuiper Belt objects, astrobiology, astrochemistry*
 * [Dr. Eva Noyola](/byauthor/?author=Eva+Noyola) (UT) *Black holes, star clusters, galaxies, dark matter, stars, neutron stars, VIRUS instrument*
 * [Max Parks](/byauthor?author=Max+Parks) (UT) *Orbital dynamics, space probes, space telescopes, NASA*
