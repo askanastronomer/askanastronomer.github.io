@@ -3,7 +3,7 @@ layout: post
 title: Why do comets not get captured by Earth's gravity during a close flyby?
 author: Marshall Johnson
 categories: planets
-thumbnail: http://askanastronomer.org/img/comet_mcnaught.jpg
+thumbnail: http://askanastronomer.org/img/ison_thumb.jpg
 ---
 <div class="image">
 <img src="/img/ison.jpg">
