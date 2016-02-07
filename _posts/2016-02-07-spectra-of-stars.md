@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How do astronomer zero in on the spectrum of a single star?
+title: How do astronomers zero in on the spectrum of a single star?
 author: Thomas Gomez
 categories: stars
 thumbnail: http://askanastronomer.org/img/spectra_thumb.jpg
