@@ -5,7 +5,7 @@ author: Hwihyun Kim
 categories:
 - other
 - faq
-thumbnail: http://askanastronomer.org/img/students_thumb.jpg
+thumbnail: http://askanastronomer.org/img/students_het_thumb.jpg
 ---
 <div class="image">
 <img src="/img/students_het.jpg">
