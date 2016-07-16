@@ -42,3 +42,85 @@ Each answer is composed using [Markdown](https://help.github.com/articles/github
 ```
 
 *Always* include credits and copyright information.
+
+# For maintainers
+## Getting started (assuming Mac OS X)
+1. Install a package manager such as [Homebrew](http://brew.sh).
+2. Install git, jekyll, and ImageMagick: `brew install git jekyll imagemagick`
+3. Clone the AaA repository to your local machine: `git clone https://github.com/askanastronomer/askanastronomer.github.io.git`.
+
+## Operating the website
+This website is powered by Jekyll. A quick tutorial is available in the [home page](https://jekyllrb.com), but you should be able to operate the website using the following instructions.
+
+Jekyll works by compiling files into static HTML pages. To start a live Jekyll server on your machine, type:
+```
+$ jekyll serve --watch
+```
+
+This command will build the static HTML pages, prepare a local web server for you to see the website with any modifications you have applied, and continue watching the directory such that any changes will trigger an automatic rebuild.
+
+The output will list a server address, typically something like:
+```
+   Server address: http://127.0.0.1:4000/
+```
+
+You can browse to that address (`http://127.0.0.1:4000/`) to see a live local copy of the website.
+
+## Adding new answers
+You can add new answers by using one of the existing answers in `_posts/` as a template. The file name should include the date and a dash-separated short description, for instance:
+```
+cp 2016-02-29-planets-from-gas-and-dust.md 2016-07-16-how-do-galaxies-form.md
+```
+
+The answers themselves are written in plain-text [Markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+The top of each answer contains a [YAML front matter](https://jekyllrb.com/docs/frontmatter/), a simple list of properties and values. For example:
+```
+---
+layout: post
+title: What proof do you have that planets are made from gas and dust?
+author: Sam Factor
+categories: planets
+thumbnail: http://askanastronomer.org/img/ppdisk_thumb.jpg
+---
+```
+The available categories are: `bhc` (black holes & cosmology), `stars`, `planets`, `galaxies`, `faq`, and `other`.
+
+## Adding images
+Images are stored in the `img/` folder. I typically save them as JPEG files, and create thumbnails that are ~300px wide. You can create thumbnails by using the `mogrify` command from ImageMagick (or any other tool you prefer):
+
+```
+cp img/my_image.jpg img/my_image_thumb.jpg
+mogrify -resize 300 img/my_image_thumb.jpg
+```
+
+The address of the thumbnail should be listed in the front matter, using the full URL to askanastronomer.org.
+
+The post image should be at the top of the answer, right under the front matter, as an HTML fragment:
+```
+<div class="image">
+<img src="/img/my_image.jpg">
+<div class="caption">Caption, taken from this <a href="http://address-of-source.com">Source</a>. Credit: NASA/ESA/ESO/HST/Etc.</div>
+</div>
+```
+*Only* use images in the public domain and list source and any credits in the caption.
+
+## Workflow
+1. Get a new question in the Google Sheets spreadsheet.
+2. Assign it to one of the experts, taking care to cycle through people. Asking for an answer in plain text (or even Markdown, if the author is willing) will make it easier for you to import it into the website.
+3. Wait for an answer -- typical wait times are 1-2 weeks.
+4. When you receive an answer:
+  - Create a new file for the answer by cloning a past answer, e.g. `cp _posts/2016-01-01-old.md _posts/2016-07-01-new.md`.
+  - Edit the front matter to reflect question, category, author and address of thumbnail.
+  - Copy and paste the answer under the front matter.
+  - Lightly edit as necessary, and add links where useful.
+5. Open your web browser and navigate to the local Jekyll server; check if answer looks good. Note: the thumbnail will be broken until the modifications to the website is pushed back to the Git repository.
+6. Push your modifications to the git repository, e.g.:
+```bash
+git status   # Check which files were modified
+git add -A
+git commit -m "Added answer by XYZ"
+git push
+```
+7. Share it on social media and enjoy the likes!
+
