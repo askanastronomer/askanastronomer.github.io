@@ -40,7 +40,6 @@ font-size:0.7rem;
 * [Dr. Aaron Rizzuto](/byauthor/?author=Aaron+Rizzuto) (UT) *Stellar astrophysics, young stars, young moving groups, star formation, binary stars, interferometry, imaging*
 * [Dr. Sarah Salviander](/byauthor/?author=Sarah+Salviander) (UT) *Quasars / active galaxies, supermassive black holes, black hole - galaxy relationships / evolution*
 * [Dr. Matthew Shetrone](/byauthor/?author=Matthew+Shetrone) (UT)
-* [Dr. Jeffrey Silverman](/byauthor/?author=Jeffrey+Silverman) (UT) *Supernovae, gamma-ray bursts (GRB), novae, transients, spectroscopy, light curves, stellar death*
 * [Matt Stevans](/byauthor/?author=Matt+Stevans) (UT) *Galaxies, galaxy evolution, active galactic nuclei, the intergalactic medium*
 * [Rebecca Tippens](/byauthor/?author=Rebecca+Tippens) (UT)
 * [Zach Vanderbosch](/byauthor/?author=Zach+Vanderbosch) (UT) *White dwarfs, asteroseismology, stellar formation/evolution, spectrographic instruments, optical engineering, photometry*
