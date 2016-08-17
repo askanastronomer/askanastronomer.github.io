@@ -47,6 +47,7 @@ font-size:0.7rem;
 * [Dr. Sarah Salviander](/byauthor/?author=Sarah+Salviander) (UT) *Quasars / active galaxies, supermassive black holes, black hole - galaxy relationships / evolution*
 * [Sydney Sherman](/byauthor/?author=Sydney+Sherman) (UT) *Galaxies*
 * [Dr. Matthew Shetrone](/byauthor/?author=Matthew+Shetrone) (UT) *Observational techniques, galactic nucleosynthesis, stellar evolution*
+* [Dr. Jeffrey Silverman](/byauthor/?author=Jeffrey+Silverman) (UT) *Supernovae, transient phenomena, astronomy education and outreach*
 * [Aaron Smith](/byauthor/?author=Aaron+Smith) (UT) *Cosmology, fir stars and galaxies, black holes, general relativity*
 * [Matt Stevans](/byauthor/?author=Matt+Stevans) (UT) *Galaxies, galaxy evolution, active galactic nuclei, the intergalactic medium*
 * [Rebecca Tippens](/byauthor/?author=Rebecca+Tippens) (UT) *Cosmology, dark energy, dark matter*
