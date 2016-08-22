@@ -21,6 +21,7 @@ font-size:0.7rem;
 * [Dr. Monika Adamow](/byauthor/?author=Monika+Adamow) (UT) *Exoplanet detection, chemical composition of stars, stellar evolution, stellar populations*
 * [Keaton Bell](/byauthor/?author=Keaton+Bell) (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * [Dr. Fritz Benedict](/byauthor/?author=Fritz+Benedict) (UT) *Astrometry, space astronomy, exoplanets, distance determinations*
+* [Brendan Bowler](/byauthor/?author=Brendan+Bowler) (UT) *Exoplanets, direct imaging of exoplanets, adaptive optics, brown dwarfs, planet formation*
 * [Prof. Augusto Carballido](/byauthor/?author=Augusto+Carballido) (Baylor University) *Planet formation, solar system objects, space exploration, extraterrestrial life*
 * [Jim Chandler](/byauthor/?author=Jim+Chandler) (Austin Astronomical Society) *Amateur astronomy and equipment*
 * [Dr. Tom Crawford](/byauthor/?author=Tom+Crawford) (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
