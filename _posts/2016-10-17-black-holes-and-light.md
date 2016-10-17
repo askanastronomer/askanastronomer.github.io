@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is light accelerated by the extreme gravitational pull of a black hole?
+title: Does light accelerate when approaching the edge of a black hole?
 author: Aaron Smith
 categories: bhc
 thumbnail: http://askanastronomer.org/img/IS_blackhole_thumb.jpg
