@@ -16,7 +16,7 @@ font-size:0.7rem;
 
 # The team
 * [Dr. Stefano Meschiari](/byauthor/?author=Stefano+Meschiari) (UT, editor/webmaster) *Exoplanets, planet formation, astronomy education*
-* [Zach Vanderbosch](/byauthor/?author=Zach+Vanderbosch) (UT, editor/webmaster) *White dwarf stars, stellar structure/evolution, optical instrumentation, photometry*
+* [Zach Vanderbosch](/byauthor/?author=Zach+Vanderbosch) (UT, editor/webmaster) *White dwarf stars, stellar structure/evolution, optical instrumentation, time series photometry*
 
 * [Dr. Monika Adamow](/byauthor/?author=Monika+Adamow) (UT) *Exoplanet detection, chemical composition of stars, stellar evolution, stellar populations*
 * [Keaton Bell](/byauthor/?author=Keaton+Bell) (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
