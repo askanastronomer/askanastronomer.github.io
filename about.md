@@ -22,9 +22,13 @@ font-size:0.7rem;
 * [Keaton Bell](/byauthor/?author=Keaton+Bell) (UT) *Stars, stellar structure and evolution, white dwarfs, asteroseismology*
 * [Dr. Fritz Benedict](/byauthor/?author=Fritz+Benedict) (UT) *Astrometry, space astronomy, exoplanets, distance determinations*
 * [Dr. Brendan Bowler](/byauthor/?author=Brendan+Bowler) (UT) *Exoplanets, direct imaging of exoplanets, adaptive optics, brown dwarfs, planet formation*
+* [Maria Jose Bustamante-Rosell](/byauthor/?author=Maria+Bustamante) (UT) *Galactic dynamics, neutrino physics, cosmology*
 * [Prof. Augusto Carballido](/byauthor/?author=Augusto+Carballido) (Baylor University) *Planet formation, solar system objects, space exploration, extraterrestrial life*
+* [Prof. Caitlin Casey](/byauthor/?author=Caitlin+Casey) (UT) *Galaxy formation and evolution, dust and gas in the Universe, galaxy mergers, galaxy clusters, starbursts*
 * [Jim Chandler](/byauthor/?author=Jim+Chandler) (Austin Astronomical Society) *Amateur astronomy and equipment*
 * [Dr. Tom Crawford](/byauthor/?author=Tom+Crawford) (University of Chicago) *Cosmology, cosmic microwave background (CMB), millimiter-wave astronomy*
+* [Patrick Drew](/byauthor/?author=Patrick+Drew) (UT) *Extragalactic astronomy, star forming regions in the Milky Way*
+* [Dr. Mike Endl](/byauthor/?author=Mike+Endl) (UT) *Exoplanets, astrobiology*
 * [Sam Factor](/byauthor/?author=Sam+Factor) (UT) *Exoplanets, planet formation, radio interferometry*
 * [Prof. Steve Finkelstein](/byauthor/?author=Steve+Finkelstein) (UT) *Galaxies, galaxy evolution, reionization*
 * [Thomas Gomez](/byauthor/?author=Thomas+Gomez) (UT) *Atomic physics/spectroscopy, stars*
@@ -33,7 +37,7 @@ font-size:0.7rem;
 * [Briana Indahl](/byauthor/?author=Briana+Indahl) (UT) *Astronomy instruments, galaxies, HETDEX, VIRUS*
 * [Dr. Marshall C. Johnson](/byauthor/?author=Marshall+Johnson) (Ohio State University) *Exoplanets, spectroscopy, astronomical observing, transiting planets, Kepler, spin-orbit misalignments, planetary migration, the interstellar medium, the heliosphere and astrospheres, space exploration and orbital dynamics*
 * [Intae Jung](/byauthor/?author=Intae+Jung) (UT) *Galaxies, reionization, dark matter interactions, large-scale structure evolution*
-* [Kyle Kaplan](/byauthor/?author=Kyle+Kaplan) (UT) *Interstellar medium, molecular gas, infrared spectroscopy*
+* [Dr. Kyle Kaplan](/byauthor/?author=Kyle+Kaplan) (UT) *Interstellar medium, molecular gas, infrared spectroscopy*
 * [Dr. Hwihyun Kim](/byauthor/?author=Hwihyun+Kim) (UT) *Formation and evolution of stars and star clusters, HII regions, near-infrared astronomy and spectroscopy, career advice*
 * [Prof. Adam Kraus](/byauthor/?author=Adam+Kraus) (UT) *Extrasolar planets, star formation, planet formation, adaptive optics*
 * [Dr. Rachael Livermore](/byauthor/?author=Rachael+Livermore) (UT) *Galaxies, high redshift, gravitational lensing*
@@ -55,7 +59,7 @@ font-size:0.7rem;
 * [Prof. J. Craig Wheeler](/byauthor/?author=J.+Craig+Wheeler) (UT) *Stellar evolution, supernovae, white dwarf stars, neutron stars, black holes, gamma-ray bursts (GRB), astrobiology*
 * [Prof. Don Winget](/byauthor/?author=Don+Winget) (UT) *White dwarf stars, stellar and galactic evolution an cosmochronolgy, experimental astrophysics*
 * [Yao-Lun Yang](/byauthor/?author=Yao-Lun+Yang) (UT) *star formation, interstellar medium, spectroscopy, infrared and radio astronomy, radiative transfer*
-* [Emma Yu](/byauthor/?author=Emma+Yu) (UT) *Star formation, planet formation*
+* [Dr. Emma Yu](/byauthor/?author=Emma+Yu) (UT) *Star formation, planet formation*
 
 Disclaimer: The opinions expressed here are those of individual authors and don't necessarily represent the University's or the Observatory's positions. Send your feedback to [askanastronomer@astro.as.utexas.edu](mailto:askanastronomer@astro.as.utexas.edu).
 
